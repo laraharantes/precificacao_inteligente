@@ -42,11 +42,21 @@ Este projeto foi desenvolvido durante um curso voltado para a **manipulação de
 
 ---
 
-## 📁 Estrutura do Projeto 
-.
-├── precificacao_inteligente.ipynb # Notebook com todas as manipulações
-└── README.md 
+## 📁 Estrutura dos Arquivos
 
+- `precificacao_inteligente.ipynb`: Notebook principal com todo o processo de análise, manipulação e tratamento de dados.
+- `dados_hospedagem.json`: Arquivo com dados brutos de hospedagens utilizados no projeto.
+- `moveis_disponiveis.json`: Arquivo complementar com dados de imóveis disponíveis.
+- `LEIA-ME.md`: Este arquivo, com a descrição do projeto e orientações gerais.
+
+
+---
+
+## 📌 Como Executar
+
+1. Abra o arquivo `precificacao_inteligente.ipynb` no Google Colab.
+2. Certifique-se de fazer upload dos arquivos `dados_hospedagem.json` e `moveis_disponiveis.json`.
+3. Execute o notebook célula por célula para acompanhar a análise passo a passo.
 
 ---
 
