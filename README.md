@@ -1,6 +1,8 @@
 # 📊 Projeto: Precificação Inteligente com Manipulação de Dados
 
-Este projeto foi desenvolvido durante um curso voltado para a **manipulação de dados com Python**, utilizando o **Google Colab** como ambiente. O foco principal foi aplicar técnicas para preparar e transformar dados com o objetivo de auxiliar em estratégias de **precificação inteligente**.
+Este projeto foi desenvolvido durante um curso da **Alura** voltado para a **manipulação de dados com Python**, utilizando o **Google Colab** como ambiente. O foco principal foi aplicar técnicas para preparar e transformar dados com o objetivo de auxiliar em estratégias de **precificação inteligente**.
+
+Durante o processo, foram utilizadas diversas técnicas de tratamento de listas, extração de números a partir de textos, uso de expressões regulares, manipulação de dados temporais com `datetime` e criação de novas bases a partir dessas transformações.
 
 ---
 
